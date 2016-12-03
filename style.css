@@ -1,0 +1,63 @@
+body {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	background-color: #555;
+}
+
+.stages {
+	display: flex;
+	flex-direction: column;
+	width: 10vw;
+	height: 100vh;
+	background-color: red;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.stagesCircle {
+	width: 10vh;
+	height: 10vh;
+	background-color: green;
+	border-radius: 50%;
+}
+
+.activeCircle {
+	background-color: yellow;
+}
+
+.gameBoard {
+
+}
+
+.question {
+
+}
+
+.categories {
+
+}
+
+.category1 {
+
+}
+
+.category2 {
+
+}
+
+.answers {
+
+}
+
+.answer {
+
+}
+
+.money {
+	
+}
+
+.hidden {
+	display: none;
+}
